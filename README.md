@@ -1,6 +1,6 @@
-# L46 MLSys project repo
+# Compression techniques for deep neural networks
 
-This repo contains the source code and experiments performed in the *Compression techniques for deep neural networks* project for the L46 (Principles of Machine Learning Systems) course.
+This repo contains the source code and experiments performed in the *Compression techniques for deep neural networks* project.
 
 * The data preprocessing, training and evaluation code can be found in `mlsys_project_main.ipynb`.
 
